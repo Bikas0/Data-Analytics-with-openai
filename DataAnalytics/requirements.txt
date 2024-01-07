@@ -1,0 +1,2 @@
+pandasai
+python-dotenv
